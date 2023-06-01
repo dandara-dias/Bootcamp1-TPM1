@@ -5,7 +5,6 @@
 <p align="center">
 • <a href="#-sobre-o-projeto">Sobre</a> •
  <a href="#-demonstra%C3%A7%C3%A3o">Demonstração</a> • 
- <a href="#-como-executar-o-projeto">Como executar</a> • 
  <a href="#-tecnologias">Tecnologias</a> •
  <a href="#%EF%B8%8F-autora">Autora</a> •
 </p>
@@ -36,7 +35,25 @@ Para esta atividade, os alunos deverão criar um algoritmo de regressão linear 
   <img alt="tpm1" title="#tpm1" src="tpm1.gif" width="800px">
 </p>
 
+## 🛠 Tecnologias
 
+As seguintes ferramentas foram usadas na construção do projeto:
 
+#### **Website** ([Colab](https://colab.research.google.com/drive/1traXsSCL5VtIjDj4AGyls-K06aiwZr6R?usp=sharing))
+
+#### **Bibliotecas**
+
+-   Pandas
+-   Plotly
+-   Numpy
+-   Sklearn
+
+## 🦸‍♀️ Autora
+
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/85723209?v=4" width="100px;" alt="avatar-picture"/>
+ <b>Dandara Dias</b> 🎀
+ 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/dandara-dias/)](https://www.linkedin.com/in/dandara-dias/) 
+<a href = "mailto:dandaradias.contato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 
